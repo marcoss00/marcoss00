@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Marcos,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
+- 💻 I’ve a degree in Computer Engineering.
+- 🔭 I’m a Physics student.
+- 📃 I’ve some projects in Python, Java, Flutter, C and C++.
+- 🌱 I’m currently learning Data Science with Python and Javascript.
+- 😄 Pronouns: he/him/his.
 
 <div align="center">
   <a href="https://github.com/marcoss00">
