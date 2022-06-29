@@ -3,7 +3,7 @@
 - 💻 I’ve a degree in Computer Engineering.
 - 🔭 I’m a Physics student.
 - 📃 I’ve some projects in Python, Java, Flutter, C and C++.
-- 🌱 I’m currently learning Data Science with Python and Javascript.
+- 🌱 I’m currently learning Javascript and Data Science with Python.
 - 😄 Pronouns: he/him/his.
 
 <div align="center">
